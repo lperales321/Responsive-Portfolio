@@ -142,6 +142,11 @@
       height: 400px;
       margin-right: 20px;
     }
+
+    #coming-soon {
+      margin-left: 335px;
+      margin-top: 100px;
+    }
   }
 
   @media only screen 
@@ -162,6 +167,11 @@
       height: 410px;
       margin-right: 20px;
     }
+
+    #coming-soon {
+      margin-left: 230px;
+      margin-top: 100px;
+    }
   }
 
   @media only screen 
@@ -181,5 +191,10 @@
       width: 500px;
       height: 600px;
       margin-right: 20px;
+    }
+
+    #coming-soon {
+      margin-left: 160px;
+      margin-top: 100px;
     }
   }
